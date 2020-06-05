@@ -25,7 +25,7 @@ echo $i "
 ███████╗███████║██║  ██║███████║██████╔╝
 ╚════██║██╔══██║██║  ██║██╔══██║██╔═══╝
 ███████║██║  ██║██████╔╝██║  ██║██║
-╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝FAJAR CYBER
+╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝WHATSAPP
 "
 echo "##########################################"|lolcat
 echo "AUTHOR  : FAJAR CYBER"|lolcat
@@ -40,8 +40,6 @@ read tr
 echo "============================" | lolcat
 echo -n $cy"Nah ini isi nomor lu : "|lolcat
 read tr
-echo "============================" | lolcat
-echo -n $cy"Nah ini isi nomor lu : "|lolcat
 read lu
 echo "*SABAR TOD SEDANG MERETAS CHATAN TARGET"|lolcat
 echo "*TUNGGU SEBENTAR..."|lolcat
@@ -56,7 +54,7 @@ echo "*TUNGGU SEBENTAR HAMPIR BERHASIL"|lolcat
 figlet "BERHASIL"|lolcat
 echo "*PROSES..."
 echo "[✓] BERHASIL ✓"|lolcat
-echo "###################################################"
+echo "###################################################"|lolcat
 echo "TEMAN MU : P"|lolcat
 echo "PACAR MU : APA"|lolcat
 echo "TEMAN MU : UDAH PUNYA PACAR BELUM"|lolcat
@@ -73,14 +71,14 @@ echo "PACAR MU : OHW.MAKAN BELUM SAYANG ?"|lolcat
 echo "TEMAN MU : UDAH SAYANG "|lolcat
 echo "PACAR MU : OHW"|lolcat
 echo "TEMEN MU : IYH SAYANG KU "|lolcat
-echo "###################################################>
+echo "############################################################"|lolcat
 echo "PENGEN TAU SIAPA TEMEN MU YANG REBUT"|lolcat
 echo "PACAR MU "|lolcat
 echo "YANG REBUT PACAR MU ADALAH"|lolcat
 echo "INISIAL HURUF R ATAU A "|lolcat
 echo "HATI HATI KEBANYAKAN INISIAL HURUF R SAMA A FAKBOYY CAP KALENG KALENG"|lolcat
-echo "###################################################"
-echo "KALAU GAK PERCAYA TANYA PACARMU DIA SELINGKUH !"
+echo "###################################################"|lolcat
+echo "KALAU GAK PERCAYA TANYA PACARMU DIA SELINGKUH !"|lolcat
 figlet " W A I T "|lolcat
 echo "HATI HATI DENGAN INISIAL HURUF R DAN A "|lolcat
 echo "MEREKA FAKBOY CAP KALENG KALENG "|lolcat
